@@ -1,6 +1,6 @@
 // This changes the title of your site
 
-var sitename = "CyberGames"; // Change this to change the name of your website.
+var sitename = "VasionNetwork"; // Change this to change the name of your website.
 var subtext = "DONTSHARE"; // set the subtext
 
 // more settings in main.css
